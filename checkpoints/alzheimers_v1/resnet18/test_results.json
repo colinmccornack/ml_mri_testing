@@ -1,0 +1,12 @@
+{
+  "model_name": "resnet18",
+  "test_accuracy": 0.7452229299363057,
+  "test_loss": 0.6171851185925378,
+  "per_class_accuracy": {
+    "MildDemented": 0.5895522388059702,
+    "ModerateDemented": 0.631578947368421,
+    "VeryMildDemented": 0.6592261904761905,
+    "normal": 0.8776041666666666
+  },
+  "total_samples": 1727
+}

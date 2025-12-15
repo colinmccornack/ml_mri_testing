@@ -1,0 +1,12 @@
+{
+  "model_name": "convnext_large",
+  "test_accuracy": 0.988945186549977,
+  "test_loss": 0.046623913108312,
+  "per_class_accuracy": {
+    "glioma": 0.9856262833675564,
+    "meningioma": 0.9869281045751634,
+    "normal": 0.9943100995732574,
+    "pituitary": 0.9865900383141762
+  },
+  "total_samples": 2171
+}

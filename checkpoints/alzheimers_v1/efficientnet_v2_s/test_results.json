@@ -1,0 +1,12 @@
+{
+  "model_name": "efficientnet_v2_s",
+  "test_accuracy": 0.9444122756224667,
+  "test_loss": 0.14599427196009007,
+  "per_class_accuracy": {
+    "MildDemented": 0.9738805970149254,
+    "ModerateDemented": 1.0,
+    "VeryMildDemented": 0.9389880952380952,
+    "normal": 0.9375
+  },
+  "total_samples": 1727
+}

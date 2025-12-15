@@ -1,0 +1,12 @@
+{
+  "model_name": "convnext_tiny",
+  "test_accuracy": 0.9530978575564563,
+  "test_loss": 0.15264859763106206,
+  "per_class_accuracy": {
+    "MildDemented": 0.8955223880597015,
+    "ModerateDemented": 0.8947368421052632,
+    "VeryMildDemented": 0.9538690476190477,
+    "normal": 0.9739583333333334
+  },
+  "total_samples": 1727
+}

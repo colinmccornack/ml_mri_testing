@@ -1,0 +1,12 @@
+{
+  "model_name": "resnet34",
+  "test_accuracy": 0.7099015634047481,
+  "test_loss": 0.6413212335378915,
+  "per_class_accuracy": {
+    "MildDemented": 0.5074626865671642,
+    "ModerateDemented": 0.7368421052631579,
+    "VeryMildDemented": 0.6875,
+    "normal": 0.7994791666666666
+  },
+  "total_samples": 1727
+}

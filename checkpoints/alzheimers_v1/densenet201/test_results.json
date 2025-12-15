@@ -1,0 +1,12 @@
+{
+  "model_name": "densenet201",
+  "test_accuracy": 0.950781702374059,
+  "test_loss": 0.12911924869512365,
+  "per_class_accuracy": {
+    "MildDemented": 0.9514925373134329,
+    "ModerateDemented": 0.8421052631578947,
+    "VeryMildDemented": 0.9732142857142857,
+    "normal": 0.93359375
+  },
+  "total_samples": 1727
+}

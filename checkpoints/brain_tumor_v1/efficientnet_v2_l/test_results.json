@@ -1,0 +1,12 @@
+{
+  "model_name": "efficientnet_v2_l",
+  "test_accuracy": 0.987563334868724,
+  "test_loss": 0.049068799560775,
+  "per_class_accuracy": {
+    "glioma": 0.9897330595482546,
+    "meningioma": 0.9760348583877996,
+    "normal": 0.9928876244665719,
+    "pituitary": 0.9885057471264368
+  },
+  "total_samples": 2171
+}

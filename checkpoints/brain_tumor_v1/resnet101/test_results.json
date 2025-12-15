@@ -1,0 +1,12 @@
+{
+  "model_name": "resnet101",
+  "test_accuracy": 0.9852602487333026,
+  "test_loss": 0.12411293830672465,
+  "per_class_accuracy": {
+    "glioma": 0.9774127310061602,
+    "meningioma": 0.9694989106753813,
+    "normal": 0.9943100995732574,
+    "pituitary": 0.9942528735632183
+  },
+  "total_samples": 2171
+}

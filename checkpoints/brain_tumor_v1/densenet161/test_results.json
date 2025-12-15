@@ -1,0 +1,12 @@
+{
+  "model_name": "densenet161",
+  "test_accuracy": 0.9751266697374482,
+  "test_loss": 0.0800949878355832,
+  "per_class_accuracy": {
+    "glioma": 0.9691991786447639,
+    "meningioma": 0.9302832244008714,
+    "normal": 0.9957325746799431,
+    "pituitary": 0.9923371647509579
+  },
+  "total_samples": 2171
+}
